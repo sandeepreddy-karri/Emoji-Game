@@ -1,0 +1,33 @@
+/* Write your code here. */
+
+.navbarContainer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #ffffff33;
+  padding: 8px;
+}
+
+.leftNavbar {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.rightNavbar {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.navTitle {
+  color: #ffffff;
+  margin-left: 5px;
+  font-size: 24px;
+}
+
+.navPara {
+  color: #ffffff;
+  margin-right: 20px;
+  font-weight: bold;
+}

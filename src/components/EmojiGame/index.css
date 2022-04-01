@@ -1,0 +1,17 @@
+/* Write your code here. */
+
+.mainBgContainer {
+  background-image: linear-gradient(to bottom, #9796f0, #fbc7d4);
+  min-height: 100vh;
+}
+
+.emojiListCard {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.EmojiGameContainer {
+  margin: 30px;
+}
